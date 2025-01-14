@@ -1,0 +1,16 @@
+{
+    "name": "com.exerussus.basicdata",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3c9c26cee5b0d6c4199d1bacdbc44684"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

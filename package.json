@@ -1,0 +1,26 @@
+{
+  "name": "com.exerussus.basicdata",
+  "version": "1.0.0",
+  "displayName": "Basic Data",
+  "description": "Модуль для 1EasyEcs",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "leoecslite",
+    "leoecs",
+    "ecs",
+    "performance",
+    "1easyecs",
+    "easyecsmodules",
+    "exerussus",
+    "basicdata"
+  ],
+  "author": {
+    "name": "Exerussus",
+    "email": "solovyov.production@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exerussus/BasicData.git"
+  }
+}
